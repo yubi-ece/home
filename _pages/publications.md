@@ -56,6 +56,10 @@ IEEE Transactions on Device and Materials Reliability, vol.14, no.3, pp.931-934,
 
 ## Conference Papers
 
+<b>[Enhancing hardware security with emerging transistor technologies](https://dl.acm.org/citation.cfm?id=2903041)</b> <br> 
+JS Yuan, Yan Xu, SD Yen, <b>Yu Bi</b>, GW Hwang. <br>
+26th ACM Great Lakes Symposium on VLSI (GLSVLSI'16), May 18 - 20, 2016.
+
 
 
 
