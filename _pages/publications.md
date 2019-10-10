@@ -7,11 +7,16 @@ author_profile: true
 ## Book/Book Chapters
 
 <b>[Polarity-Controllable Silicon NanoWire FET-Based Security](https://www.taylorfrancis.com/books/9781315265056/chapters/10.1201/9781315265056-8)</b> <br> 
-<b>Yu BI</b>, P-E Gaillardon, Sharon Hu, Michael Niemier, Jiann-Shiun Yuan, Yier Jin.
+<b>Yu Bi</b>, P-E Gaillardon, Sharon Hu, Michael Niemier, Jiann-Shiun Yuan, Yier Jin.
 <i>Security Opportunities in Nano Devices and Emerging Technologies. <b>CRC Press 2017 </b>.
 
 
 
+## Journal Papers
+
+<b>[Logic Locking Using Hybrid CMOS and Emerging SiNW FETs](https://www.mdpi.com/2079-9292/6/3/69)</b> <br> 
+Qutaiba Alasad, Jiann-Shiun Yuan, <b>Yu Bi</b>.
+<i> Electronics 2017.
 
 
 [\* denotes equal contribution]
