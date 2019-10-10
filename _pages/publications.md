@@ -15,7 +15,7 @@ author_profile: true
 ## Journal Papers
 
 <b>[Logic Locking Using Hybrid CMOS and Emerging SiNW FETs](https://www.mdpi.com/2079-9292/6/3/69)</b> <br> 
-Qutaiba Alasad, Jiann-Shiun Yuan, <b>Yu Bi</b>.
+Qutaiba Alasad, Jiann-Shiun Yuan, <b>Yu Bi</b>. <br>
 <i>Electronics 2017.
 
 
