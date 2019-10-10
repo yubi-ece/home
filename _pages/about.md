@@ -16,11 +16,19 @@ He received his Ph.D. degree from the Department of Electrical and Computer Engi
 
 Research Interest
 =======
-My research interests focus on Hardware Security; Deep Learning; IoT/CPS security.
+* Hardware security, supply-chain security
+
+* Deep learning hardware accelerator design and optimization
+
+* Security for deep neural network, IoT/CPS
+
+* Hardware-assisted cyber and software security
+
 
 Research Assistant Positions Available:
 ======
 If interested please send your CV to yu_bi@uri.edu.
+
 
 Site-wide configuration
 ------
