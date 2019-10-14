@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Electronics II - Lab"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Lab Session"
+permalink: /teaching/2020-spring-teaching-2
+venue: "University of Rhode Island, Department of Electrical, Computer and Biomedical Engineering"
+date: 2020-01-22
+location: "Kingston, RI"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Laboratory exercises related to topics in Electronics II.
 
 Heading 1
 ======
