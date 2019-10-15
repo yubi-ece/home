@@ -7,11 +7,11 @@ redirect_from:
   - /markdown.html
 ---
 
-Yu Bi
+Yu Bi <br>
 
-2 East Alumni Avenue
-Department of Electrical, Computer and Biomedical Engineering
-University of Rhode Island 
-Kingston, RI 02881, USA
-Phone: +1 
-Email: yu_bi AT uri.edu
+2 East Alumni Avenue <br>
+Department of Electrical, Computer and Biomedical Engineering <br>
+University of Rhode Island <br>
+Kingston, RI 02881, USA <br>
+Phone: +1 <br>
+Email: yu_bi AT uri.edu <br>
