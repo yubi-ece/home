@@ -32,12 +32,15 @@ If interested please send your CV to yu_bi@uri.edu.
 
 Recent News
 ======
-* 01/25/2019: Dr. Bi was invited to give a talk in Oklahoma State University.
-* 02/06/2019: Dr. Bi was invited to give a talk in Rowan University.
+
+* 02/06/2020: Our paper "Attack Vectors in Stack Cache Memory" is accepted by Integration, the VLSI Journal.
+* 01/22/2020: Dr. Bi joins The University of Rhode Island as Tenure-Track Assistant Professor.
+* 12/03/2019: Our paper "Compression or Corruption? A Study on the Effectsof Transient Faults on BNN Inference Accelerators" is accepted by IEEE ISQED, 2020. 
+* 04/05/2019: Dr. Bi was invited to give a talk in Florida Institute of Technology.
+* 03/14/2019: Dr. Bi was invited to give a talk in University of Maryland.
 * 02/11/2019: Dr. Bi was invited to give a talk in University of North Texas.
 * 02/13/2019: Dr. Bi was invited to give a talk in Santa Clara University.
-* 03/14/2019: Dr. Bi was invited to give a talk in University of Maryland. 
-* 04/05/2019: Dr. Bi was invited to give a talk in Florida Institute of Technology. 
-* 07/19/2019: Dr. Bi will join in The University of Rhode Island in Spring 2020.  
+* 01/25/2019: Dr. Bi was invited to give a talk in Oklahoma State University.
+ 
 
 
