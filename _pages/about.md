@@ -27,7 +27,7 @@ Research Interest
 
 Research Assistant Positions Available:
 ======
-If interested please send your CV to yu_bi@uri.edu.
+If interested please send your CV to yu_bi AT uri.edu.
 
 
 Recent News
