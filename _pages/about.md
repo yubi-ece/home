@@ -34,7 +34,7 @@ Recent News
 ======
 
 * 02/06/2020: Our paper ***"Attack Vectors in Stack Cache Memory"*** is accepted by Integration, the VLSI Journal.
-* 01/22/2020: Dr. Bi joins The University of Rhode Island as <span style="color:red;">**Tenure-Track Assistant Professor**</span>.
+* 01/22/2020: Dr. Bi joins The University of Rhode Island as <font color="red">**Tenure-Track Assistant Professor**!</font>.
 * 12/03/2019: Our paper ***"Compression or Corruption? A Study on the Effectsof Transient Faults on BNN Inference Accelerators"*** is accepted by IEEE ISQED, 2020. 
 * 04/05/2019: Dr. Bi was invited to give a talk in Florida Institute of Technology.
 * 03/14/2019: Dr. Bi was invited to give a talk in University of Maryland.
