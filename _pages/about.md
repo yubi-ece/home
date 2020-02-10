@@ -34,9 +34,9 @@ Recent News
 ======
 
 * 02/11/2020: Our paper ***"SHIELDeNN: Online Accelerated Framework for Fault-Tolerant Deep Neural Network Architectures"*** is accpeted by ***IEEE/ACM Design Automation Conference (DAC)***, 2020.
-* 02/06/2020: Our paper ***"Attack Vectors in Stack Cache Memory"*** is accepted by Integration, the VLSI Journal.
+* 02/06/2020: Our paper ***"Attack Vectors in Stack Cache Memory"*** is accepted by ***Integration, the VLSI Journal***.
 * 01/22/2020: Dr. Bi joins The University of Rhode Island as <font color="red">**Tenure-Track Assistant Professor**</font>.
-* 12/03/2019: Our paper ***"Compression or Corruption? A Study on the Effects of Transient Faults on BNN Inference Accelerators"*** is accepted by IEEE ISQED, 2020. 
+* 12/03/2019: Our paper ***"Compression or Corruption? A Study on the Effects of Transient Faults on BNN Inference Accelerators"*** is accepted by ***IEEE ISQED***, 2020. 
 * 04/05/2019: Dr. Bi was invited to give a talk in Florida Institute of Technology.
 * 03/14/2019: Dr. Bi was invited to give a talk in University of Maryland.
 * 02/11/2019: Dr. Bi was invited to give a talk in University of North Texas.
