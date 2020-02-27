@@ -33,7 +33,7 @@ If interested please send your CV to yu_bi AT uri.edu.
 Recent News
 ======
 
-* 02/11/2020: Our paper ***"SHIELDeNN: Online Accelerated Framework for Fault-Tolerant Deep Neural Network Architectures"*** is accpeted by ***The 57th IEEE/ACM Design Automation Conference (DAC), 2020.*** (acceptance ratio 23%)
+* 02/11/2020: Our paper ***"SHIELDeNN: Online Accelerated Framework for Fault-Tolerant Deep Neural Network Architectures"*** is accpeted by ***The 57th IEEE/ACM Design Automation Conference (DAC), 2020.*** ***(acceptance ratio 23%)***
 * 02/06/2020: Our paper ***"Attack Vectors in Stack Cache Memory"*** is accepted by ***Integration, the VLSI Journal***.
 * 01/22/2020: Dr. Bi joins The University of Rhode Island as <font color="red">**Tenure-Track Assistant Professor**</font>.
 * 12/03/2019: Our paper ***"Compression or Corruption? A Study on the Effects of Transient Faults on BNN Inference Accelerators"*** is accepted by ***IEEE ISQED***, 2020. 
