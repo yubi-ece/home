@@ -1,6 +1,6 @@
 ---
 title: "Hardware Security"
-excerpt: "Under the construction 1<br/><img src='/images/cybersecurity_physical_security_technology.jpg'>"
+excerpt: "Under the construction 1 <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
